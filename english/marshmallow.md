@@ -223,3 +223,5 @@ Do you:
 [Become an Octodog] (be-octodog/octodog.md)
 
 [Make a Marshmallow cake] (https://www.youtube.com/watch?v=3l1SY3QREv4)
+
+[Ninja vanish!] (ninja/ninja-vanish.md)
